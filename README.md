@@ -130,6 +130,8 @@ https://jccraigw.github.io/project1_Desktop/ <br>
 (same as above, mobile friendly): https://jccraigw.github.io/project1/ <br>
 https://obajuluwa3.github.io/3-Card-Monte/ <br>
 https://wesmarberry.github.io/Memory-Lane-Game/ <br>
+https://joebir.github.io/chess-trainer/ <br>
+https://dhinzo.github.io/polka-match/ <br>
 
 
 ---
