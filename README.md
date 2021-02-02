@@ -3,22 +3,22 @@
 # Project #1: The Game
 
 ## Attendance
-We will be holding stand ups with instructors at 11 EST to have a daily check on the progress your application.
+We will be holding stand ups with instructors at 6:45PM EST (Tuesday/Wednesday) and 11:00AM EST (Saturday) to have a daily check on the progress your application.
 
-There are no full day classes during project weeks, but we expect you to be working on your project from at least 9 AM - 5 PM EST during class days and be available during that time for TA hours or any meetings with instructors as needed. You are STILL required to show up to Outcomes at 10:00 AM EST on Wednesday during project weeks.
+There are no full day classes during project weeks, but we expect you to be working on your project from at least 6:30PM - 10:45PM EST (Tues/Wed) and at least 10AM - 6PM EST (Sat) during class days and be available during that time for TA hours or any meetings with instructors as needed. You are STILL required to show up to Outcomes at 10:00 AM EST on Wednesday during project weeks.
 
 We also will **still have some attendance checks** during project week, as follows:
 
-  - **Friday, October 2nd**: You're required to meet up with your instructor at whatever time you schedule to approve your project idea.
-  - **Daily**: Fill out your attendance on a daily basis and check in with instructors regarding your progress.
-  - **Friday, October 9th**: Project presentation day! You're required to be in the class zoom starting at 9:00 AM EST
+  - **Wednesday, February 3rd**: You're required to meet up with your instructor at whatever time you schedule to approve your project idea.
+  - **Daily (Each Class Day)**: Fill out your attendance on a daily basis and check in with instructors regarding your progress.
+  - **Saturday, February 13th**: Project presentation day! You're required to be in the class zoom starting at 10:00 AM EST
 
 _Failure to make an attendance check will result in an unexcused absence for both morning and afternoon for that day_.
 
 ## Meetings with instructors
-_You will signup for project approvals [here](https://docs.google.com/spreadsheets/d/1jj1YjMGNmF9ogDJGDp4exmORfpsharg1gbkJgaO7My0/edit?usp=sharing)._
+_You will signup for project approvals [here](https://docs.google.com/spreadsheets/d/1pZZWPsqmSsOVjjCHSBfeCQdq2XZpsRjig4ppWNW6Tws/edit#gid=0)._
 
-**Friday, October 2nd - Mandatory**<br>
+**Wednesday, February 3rd - Mandatory**<br>
 You will meet with an instructor to get your app idea approved. Be sure to write out what features you will need to build in order to meet MVP and some stretch goal ideas.
 
 ### Overview
