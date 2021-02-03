@@ -3,9 +3,9 @@
 # Project #1: The Game
 
 ## Attendance
-We will be holding stand ups with instructors at 6:45PM EST (Tuesday/Wednesday) and 11:00AM EST (Saturday) to have a daily check on the progress your application.
+We will be holding stand ups with instructors at **6:45PM EST (Tuesday/Wednesday) and 11:00AM EST (Saturday)** to have a daily check on the progress your application.
 
-There are no full day classes during project weeks, but we expect you to be working on your project from at least 6:30PM - 10:45PM EST (Tues/Wed) and at least 10AM - 6PM EST (Sat) during class days and be available during that time for TA hours or any meetings with instructors as needed. You are STILL required to show up to Outcomes at 10:00 AM EST on Wednesday during project weeks.
+There are no full day classes during project weeks, but we expect you to be working on your project from at least **6:30PM - 10:45PM EST (Tues/Wed)** and at least **10AM - 6PM EST (Sat)** during class days and be available during that time for TA hours or any meetings with instructors as needed. You are STILL required to show up to Outcomes at 10:00 AM EST on Wednesday during project weeks.(fix this) 
 
 We also will **still have some attendance checks** during project week, as follows:
 
