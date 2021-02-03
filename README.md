@@ -94,7 +94,7 @@ how)
 
 * **The `README.md` file** in the top level of your repo should have an explanation of what the project is and why you made it, your user stories and wireframes, explanations of the technologies used and the approaches taken, installation instructions, unsolved problems, and forthcoming features.  
 
-* You will present your project to the class on Friday October 9th.
+* You will present your project to the class on **Saturday, February 13th**.
 
 ---
 
