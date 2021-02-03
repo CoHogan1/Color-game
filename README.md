@@ -5,12 +5,12 @@
 ## Attendance
 We will be holding stand ups with instructors at **6:45PM EST (Tuesday/Wednesday) and 11:00AM EST (Saturday)** to have a daily check on the progress your application.
 
-There are no full day classes during project weeks, but we expect you to be working on your project from at least **6:30PM - 10:45PM EST (Tues/Wed)** and at least **10AM - 6PM EST (Sat)** during class days and be available during that time for TA hours or any meetings with instructors as needed. You are STILL required to show up to Outcomes at 10:00 AM EST on Wednesday during project weeks.(fix this) 
+There are no full day classes during project weeks, but we expect you to be working on your project from at least **6:30PM - 10:45PM EST (Tues/Wed)** and at least **10AM - 6PM EST (Sat)** during class days and be available during that time for TA hours or any meetings with instructors as needed. You are STILL required to show up to Outcomes during project weeks.   
 
 We also will **still have some attendance checks** during project week, as follows:
 
   - **Wednesday, February 3rd**: You're required to meet up with your instructor at whatever time you schedule to approve your project idea.
-  - **Daily (Each Class Day)**: Fill out your attendance on a daily basis and check in with instructors regarding your progress.
+  - **Daily (Each Class Day)**: You attendance will be taken during STANDUP meetings starting Saturday, February 13th. 
   - **Saturday, February 13th**: Project presentation day! You're required to be in the class zoom starting at 10:00 AM EST
 
 _Failure to make an attendance check will result in an unexcused absence for both morning and afternoon for that day_.
