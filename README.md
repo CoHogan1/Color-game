@@ -10,7 +10,7 @@ There are no full day classes during project weeks, but we expect you to be work
 We also will **still have some attendance checks** during project week, as follows:
 
   - **Wednesday, February 3rd**: You're required to meet up with your instructor at whatever time you schedule to approve your project idea.
-  - **Daily (Each Class Day)**: You attendance will be taken during **STANDUP meetings starting Saturday, February 6th**. 
+  - **Daily (Each Class Day)**: Your attendance will be taken during **STANDUP meetings starting Saturday, February 6th**. 
   - **Saturday, February 13th**: Project presentation day! You're required to be in the class zoom starting at 10:00 AM EST
 
 _Failure to make an attendance check will result in an unexcused absence for both morning and afternoon for that day_.
