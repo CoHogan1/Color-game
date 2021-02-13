@@ -1,0 +1,159 @@
+* {
+    /* border: 1px solid black; */
+    text-align: center;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    background-image: linear-gradient(-45deg, red, black, black, blue);
+    background-size: 200% 200%;
+    position: relative;
+    /* animation: rotate 7s ease-in-out infinite; */
+}
+@keyframes rotate {
+    0%{
+        background-position: 0 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0 50%;
+    }
+}
+
+.easy-mode {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 400px;
+    max-height: 400px;
+    margin: auto;
+    position: relative;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.box {
+    border: 5px dashed white;
+    line-height: 150px;
+     /* center div inner text. lol */
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    padding: 10px;
+}
+#buttons {
+    color: black;
+}
+.button {
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.aside {
+    position: relative;
+    left: 75%;
+    max-width: 100px;
+}
+.player-count {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    color: white;
+}
+
+#player-list1 {
+    border: 2px solid white;
+    max-width: 800px;
+    margin: auto;
+}
+
+#player-list2 {
+    border-bottom: 2px solid white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    max-width: 800px;
+    margin: auto;
+}
+/* Modal 1 */
+.modal1 {
+    display: none;
+    /* display: block; */
+    position: fixed;
+    z-index: 2;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background: lightgrey;
+}
+
+.modal-content {
+    background-color: white;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid black;
+    width: 50%;
+    position: relative;
+    top: 100px;
+}
+/* Modal 2  */
+.modal2 {
+    display: none;
+    /* display: block; */
+    background-image: linear-gradient(to bottom, red 20%, darkorange);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 1;
+}
+
+.modal2-content {
+    text-align: center;
+    margin-top: 20%;
+}
+
+/* Modal 2 start button */
+.start-button {
+    margin-top: 20px;
+    background-color: white;
+    border-top: 3px solid grey;
+    border-left: 3px solid grey;
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+    color: red;
+    width: 150px;
+    height: 100px;
+    line-height: 20px;
+}
+.restart {
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.player1 {
+    color: black;
+}
+.player2 {
+    color: black;
+}
+.player3 {
+    color: black;
+}
+.player4 {
+    color: black;
+}
+#title {
+    color: white;
+}
+.info{
+    color: white;
+}
+.color {
+    color: white;
+}
